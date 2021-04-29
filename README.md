@@ -1,1 +1,1 @@
-Online shop with Node.js, express and MongoDB starting project
+API-REST with Node.js, Express and MongoDB
